@@ -1,0 +1,6 @@
+User-agent: *
+Crawl-delay: 10
+# Directories
+Disallow: /Terms of Use_files/
+# Files
+Disallow: /Terms of Use.htm
